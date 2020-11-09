@@ -1,4 +1,5 @@
 # React Colors Project
+<span>I have uploaded the app in one commit</span>
 
 - A clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
 
